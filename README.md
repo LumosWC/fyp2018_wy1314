@@ -1,4 +1,15 @@
-# Detailed Process of the Regional Max-Pooling Activations from CNN for CBIR
+
+The main programming language or tool used in this project is Matlab. Because the purpose of this
+project is to test the feasibility and evaluate the accuracy performances of different methods, whether
+the ideas and methods can be implemented in a clear and straight-forward manner is more important
+than the execution speed and efficiency of the code. And there are some computer vision and deep
+learning toolbox specically made for Matlab. VLFeat, an open source computer vision library and
+MatConvNet, a MATLAB toolbox implementing Convolutional Neural Networks (CNNs) are used
+as two primary toolboxes throughout the project.
+
+
+
+# Detailed Process of the Regional Max-Pooling Activations (RMAC) from CNN for CBIR: #
 
 **Weichuan Yin**
 
